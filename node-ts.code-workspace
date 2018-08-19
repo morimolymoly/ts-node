@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"tslint.enable": true,
+		"tslint.run": "onSave"
+	}
+}
