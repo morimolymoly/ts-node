@@ -5,8 +5,7 @@
 * typescript
 ## Installation
 ```
-npm init -y
-npm i -DE typescript @types/node ts-jest @types/jest ts-lint ts-node
+npm install
 ```
 
 ## Usage
@@ -17,4 +16,10 @@ npm run tsc
 ### Run test
 ```
 npm run test
+```
+
+## Init
+```
+npm init -y
+npm i -DE typescript @types/node ts-jest @types/jest ts-lint ts-node
 ```
