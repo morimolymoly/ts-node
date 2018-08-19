@@ -17,6 +17,10 @@ npm run tsc
 ```
 npm run test
 ```
+### Run app
+```
+node build/src/app.js
+```
 
 ## Init
 ```
